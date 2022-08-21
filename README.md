@@ -2,6 +2,7 @@
 
 
 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=furkancan2107&show_icons=true&theme=radical)
 
 <img src="https://c.tenor.com/wYnHeDIp24oAAAAC/kod-yazın-yazılım-yapın.gif" width="auto">
 Here are some ideas to get you started:
@@ -11,6 +12,6 @@ Here are some ideas to get you started:
 
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=furkancan2107&show_icons=true&theme=radical)
+
 
 
