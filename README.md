@@ -10,7 +10,7 @@ Here are some ideas to get you started:
  - 📫 How to reach me: canfurkan903@gmail.com
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=furkancan2107&show_icons=true&theme=gradient) 
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=furkancan2107&show_icons=true&theme=radical)
 
 
