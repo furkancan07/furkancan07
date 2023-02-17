@@ -12,6 +12,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/furkancan2107)](https://github.com/furkancan2107) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=https://medium.com/@canfurkan903)](https://medium.com/@canfurkan903) 
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-757575?style=flat-quare&labelColor=757575&logo=Youtube&logoColor=red&link=https://www.youtube.com/@rf526/videos)](https://www.youtube.com/@rf526/videos) 
 
 
 
