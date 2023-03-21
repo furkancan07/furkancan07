@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Furkan
 
 
-- 🌱 I’m currently learning flutter                                          
+- 🌱 I’m currently learning flutter and unity                                         
 - 📫 How to reach me: canfurkan903@gmail.com
                                                                                                     
 
