@@ -3,13 +3,15 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">I am a software engineering student.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkancan2107" alt="furkancan2107" /></a> </p>
+
 
 - 🌱 I’m currently learning **unity,flutter**
 
 - 👨‍💻 All of my projects are available at [https://websitesi-275ba.web.app/#/](https://websitesi-275ba.web.app/#/)
 
 - 📫 How to reach me **canfurkan903@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
