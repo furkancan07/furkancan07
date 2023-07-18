@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **unity,flutter**
 
-- 👨‍💻 All of my projects are available at [https://websitesi-275ba.web.app/#/](https://websitesi-275ba.web.app/#/)
+- 👨‍💻 All of my projects are available at [furkancan.dev](https://websitesi-275ba.web.app/#/)
 
 - 📫 How to reach me **canfurkan903@gmail.com**
 
