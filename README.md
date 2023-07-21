@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **java spring boot**
+- 🌱 I’m currently learning **java spring boot and react**
 
 - 👨‍💻 All of my projects are available at [furkancan.dev](https://websitesi-275ba.web.app/#/)
 
