@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **unity,flutter**
+- 🌱 I’m currently learning **java spring boot**
 
 - 👨‍💻 All of my projects are available at [furkancan.dev](https://websitesi-275ba.web.app/#/)
 
