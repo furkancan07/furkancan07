@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently learning **java spring boot and react**
+- 🌱 I’m currently learning **Spring and React**
 
-- 👨‍💻 All of my projects are available at [furkancan.dev](https://websitesi-275ba.web.app/#/)
+- 👨‍💻 All of my projects are available at [furkancan.dev](https://furkancan.dev)
 
 - 📫 How to reach me **canfurkan903@gmail.com**
 
