@@ -1,27 +1,28 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">I am a software engineering student.</h3>
+<h3 align="center">Software Engineering Student</h3>
 
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Spring boot**
-
-- 👨‍💻 All of my projects are available at [furkancan.dev](furkancan.dev)
-
-- 📫 How to reach me **canfurkan903@gmail.com**
+<p align="center">
+  <a href="https://furkancan.dev/"><strong>furkancan.dev</strong></a> | 
+  <a href="mailto:canfurkan903@gmail.com"><strong>canfurkan903@gmail.com</strong></a> | 
+  <a href="https://www.linkedin.com/in/furkan-can-45182b236/"><strong>LinkedIn</strong></a>
+</p>
 
 
 
+---
 
+### 🌱 About Me
 
+- 🔭 I’m currently learning **Spring Boot** and **Spring Cloud**.
+- 💬 Ask me about **backend technologies** and **microservices**.
+- 👨‍💻 All of my projects are available at [**furkancan.dev**](https://furkancan.dev).
+- 📫 How to reach me: **canfurkan903@gmail.com**.
+
+---
+
+### 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furkancan07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-dark&hide_border=false" height="250" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo"  />
@@ -49,15 +50,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="intellij logo"  />
 </div>
 
-###
+---
 
-<br clear="both">
+### 📈 GitHub Stats
 
-<img src="https://raw.githubusercontent.com/furkancan07/furkancan07/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furkancan07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-dark&hide_border=false" height="250" alt="languages graph"  />
+</div>
 
-###
+---
 
-<div align="left">
+### 🐍 Snake Eating My Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/furkancan07/furkancan07/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/furkan-can-45182b236/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
