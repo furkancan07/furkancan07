@@ -1,15 +1,4 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">Software Engineering Student</h3>
-
-<p align="center">
-  <a href="https://furkancan.dev/"><strong>furkancan.dev</strong></a> | 
-  <a href="mailto:canfurkan903@gmail.com"><strong>canfurkan903@gmail.com</strong></a> | 
-  <a href="https://www.linkedin.com/in/furkan-can-45182b236/"><strong>LinkedIn</strong></a>
-</p>
-
-
-
----
 
 ### 🌱 About Me
 
