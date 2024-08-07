@@ -1,3 +1,20 @@
+<h1 align="center">Hi 👋, I'm Furkan</h1>
+<h3 align="center">I am a software engineering student.</h3>
+
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **Spring boot**
+
+- 👨‍💻 All of my projects are available at [furkancan.dev](furkancan.dev)
+
+- 📫 How to reach me **canfurkan903@gmail.com**
+
+
+
+
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furkancan07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-dark&hide_border=false" height="250" alt="languages graph"  />
 </div>
@@ -47,6 +64,7 @@
   <a href="mailto:canfurkan903@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+  <a href="https://furkancan.dev/#/">
+    <img src="https://yt3.googleusercontent.com/da1MWxsYElvwEv8wsW-c_VxuSN59H_gJ_8J6eW6fJkdi1KyFnqEE3i5X7edgDi6OlEclVumP=s160-c-k-c0x00ffffff-no-rj" width="52" height="40" alt="website logo"  />
+  </a>
 </div>
-
-###
