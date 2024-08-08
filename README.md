@@ -2,8 +2,8 @@
 
 ### 🌱 About Me
 
-- 🔭 I’m currently learning **Spring Boot** and **Spring Cloud**.
-- 💬 Ask me about **backend technologies** and **microservices**.
+- 🔭 I’m currently learning **Spring Boot** 
+- 💬 Ask me about **backend technologies** 
 - 👨‍💻 All of my projects are available at [**furkancan.dev**](https://furkancan.dev).
 - 📫 How to reach me: **canfurkan903@gmail.com**.
 
