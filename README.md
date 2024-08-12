@@ -49,13 +49,7 @@
 
 ---
 
-### 🐍 Snake Eating My Contributions
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/furkancan07/furkancan07/output/snake.svg" alt="Snake animation" />
-</div>
-
----
 
 ### 🌐 Connect with Me
 
