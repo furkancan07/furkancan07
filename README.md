@@ -3,7 +3,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [furkancan.dev](furkancan.dev)
+- 👨‍💻 All of my projects are available at [furkancan.dev](https://furkancan.dev)
 
 - 💬 Ask me about **Spring Boot**
 
