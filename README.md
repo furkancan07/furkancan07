@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">I am a software engineering student.</h3>
+<h3 align="center">I am a software engineer.</h3>
 
 - 🚀 I recently launched [PortfolioM](https://www.portfoliom.dev), a platform for developers to create and showcase their portfolios.  
 - 👨‍💻 All of my projects are available at [portfoliom.dev/furkancan07](https://portfoliom.dev/furkancan07)  
